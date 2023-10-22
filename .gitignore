@@ -1,0 +1,3 @@
+VirtualEnvironment/
+static/uploads/*
+!static/uploads/.gitkeep
