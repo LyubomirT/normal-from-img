@@ -6,14 +6,6 @@ import base64
 
 import uuid  # For generating unique filenames
 
-import base64
-import cv2
-import numpy as np
-
-import cv2
-import numpy as np
-import base64
-
 def normal_map_from_base64(image_base64):
   # decode the image base64 to a numpy array
   image_data = base64.b64decode(image_base64)
